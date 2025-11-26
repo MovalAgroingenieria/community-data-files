@@ -12,6 +12,6 @@
     "license": "AGPL-3",
     "depends": ["base"],
     "external_dependencies": {"python": ["pycountry"]},
-    "data": ["views/country_view.xml"],
+#    "data": ["views/country_view.xml"],
     "installable": True,
 }
